@@ -4,7 +4,7 @@ Libft is a foundational project where I recreated from scratch a series of essen
 
 ## 📜 What Is Libft?
 
-Libft is a C library that implements basic functions from the standard library, along with additional utilities and a bonus section for working with linked lists. All functions are built from scratch, without relying on external libraries.
+Libft is a C library that implements basic functions from the standard library, along with additional utilities and a bonus section for working with linked lists. All functions are built from scratch.
 
 ## 🛠️ Implemented Functions
 
@@ -73,7 +73,7 @@ Libft is a C library that implements basic functions from the standard library, 
 - **Data Structures**: I implemented linked lists, a dynamic and powerful structure
 - **Defensive Coding**: I learned to write robust code with NULL checks and error handling
 
-## 🚀 Why Is It Important?
+## 🔧 Why Is It Important?
 
 Libft is the foundation for more advanced projects in C. It forces you to understand how the tools you use daily work and prepares you for challenges like printf or get_next_line. It also reinforces key concepts like memory management and algorithmic efficiency.
 
@@ -122,16 +122,15 @@ int main(void)
 - Write clear and concise function documentation
 - Test thoroughly, including edge cases
 
+## 🧪 Testing
+
+I used francinette-image to test this project in all possible modes. It runs four tests, and if you pass all of them, you can try the --strict mode, which I found the most useful for improving memory leaks and handling edge cases.
+
+![alt text](.tests.png)
+
 
 ## Conclusion 🎯
 
 Libft is an essential project for any C programmer. It not only teaches you to recreate basic functions but also forces you to understand how they work internally. If you want to master C, this is your starting point.
-
-```bash
-# Let's get to work!
-git clone https://github.com/your-username/libft.git
-cd libft
-make
-```
 
 > "The only way to learn a new programming language is by writing programs in it." - Dennis Ritchie 💭
