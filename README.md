@@ -124,7 +124,7 @@ int main(void)
 
 ## 🧪 Testing
 
-I used francinette-image to test this project in all possible modes. It runs four tests, and if you pass all of them, you can try the --strict mode, which I found the most useful for improving memory leaks and handling edge cases.
+I used [francinette-image]((https://github.com/WaRtr0/francinette-image)) to test this project in all possible modes. It runs four tests, and if you pass all of them, you can try the --strict mode, which I found the most useful for improving memory leaks and handling edge cases.
 
 ![alt text](.tests.png)
 
