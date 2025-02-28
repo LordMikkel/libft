@@ -134,3 +134,11 @@ I used [francinette-image](https://github.com/WaRtr0/francinette-image) to test 
 Libft is an essential project for any C programmer. It not only teaches you to recreate basic functions but also forces you to understand how they work internally. If you want to master C, this is your starting point.
 
 > "The only way to learn a new programming language is by writing programs in it." - Dennis Ritchie 💭
+
+---
+
+## 🏆 Credits
+
+Developed by **Mikel Garrido** as part of the 42 curriculum.
+🔗 [GitHub: LordMikkel](https://github.com/LordMikkel)
+
